@@ -130,8 +130,9 @@ section {
 
 .header .navbar a {
   font-size: 1.7rem;
-  color: #666;
+  color: #f5da6e;
   margin: 0 1rem;
+  border-radius:1rem;
 }
 
 .header .navbar a:hover {
@@ -146,7 +147,7 @@ section {
 }
 
 .header .icons div:hover {
-  color: #bac34e;
+  color: #5788fa;
 }
 
 .header .search-form {
