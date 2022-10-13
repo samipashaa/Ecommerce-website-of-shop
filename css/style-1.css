@@ -1229,5 +1229,15 @@ body{
 
 
 
+.about-header{
+  font-weight: bold;
+  font-size: 50px;
+}
 
-
+.about-para{
+  font-size: 20px;
+}
+.contact-para{
+  font-weight:bold ;
+  font-size: 30px;
+}
